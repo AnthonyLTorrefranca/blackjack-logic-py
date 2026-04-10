@@ -8,7 +8,3 @@ A Python-based foundation for a card game (Blackjack-style) focusing on turn ini
 
 ### Prerequisites
 * Python 3.10 or higher (required for `match-case` statements).
-
-### Running the Script
-1. Clone the repository:
-   ```bash
